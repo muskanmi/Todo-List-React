@@ -14,13 +14,13 @@ A todo list application built on ReactJS using react hooks, props and other diff
 
 1. Get the source code on your pc via git.
 
-```js
+```shell
   git clone https://github.com/muskanmi/Todo-List-React
 ```
 
 2.  Navigate inside the folder through your terminal.
 
-```js
+```shell
   cd Todo-List-React
 ```
 
